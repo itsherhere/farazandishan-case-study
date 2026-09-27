@@ -117,6 +117,12 @@ Sanity Studio type-check
 Sanity Studio production build
 ```
 
+## More detail
+
+- [Architecture notes](docs/architecture.md)
+- [Engineering decisions](docs/engineering-decisions.md)
+- [Recruiter summary](docs/recruiter-summary.md)
+
 ## What this project demonstrates
 
 - real client project experience
